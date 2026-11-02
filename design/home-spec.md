@@ -3,6 +3,8 @@
 Source: Figma file `6578GNItimABGeHKccRcL6`, page "עיצוב רספונסיבי", frame **דף הבית** (node `1114:5595`), desktop width 1280px (hero/footer backgrounds 1650px, centered).
 Extracted: 2026-11-02 via Figma MCP (`get_design_context`).
 
+> **Note (confirmed by owner, 2026-11-02):** the home page *is* the apartments directory ("מאגרי דירות"). There is no separate listings page — the nav link "מאגרי דירות" should point to the home page (or scroll to the cards grid).
+
 ## Design tokens
 
 ### Colors
